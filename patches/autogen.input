@@ -1,0 +1,13 @@
+--with-visual-studio=2022
+--with-product-name=DshOffice
+--with-branding=C:/build/branding
+--enable-release-build
+--disable-cve-tests
+--without-doxygen
+--disable-odk
+--without-java
+--disable-gpgmepp
+--disable-firebird-sdbc
+--disable-pdfium
+--with-lang=zh-CN
+PKG_CONFIG=C:/build/pkgconf/pkgconf-2.4.3.exe
